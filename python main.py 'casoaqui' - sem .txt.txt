@@ -1,0 +1,5 @@
+python main.py casoa
+python main.py casob
+python main.py casoc
+python main.py casod
+python main.py casoe
